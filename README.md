@@ -1,8 +1,8 @@
-# SVGOMG / Trusted Web Activity
+# TravelFeed Android App
 
 This project uses the
 [Trusted Web Activities](https://developers.google.com/web/updates/2017/10/using-twa) technology
-to wrap [SVGOMG](https://jakearchibald.github.io/svgomg/) in an Android Application.
+to wrap [SVGOMG](https://jakearchibald.github.io/svgomg/) in an Android Application and provide convenient access to the TravelFeed PWA.
 
 ## Running the Demo
 
